@@ -27,8 +27,7 @@ placed by a customer can be viewed in order history. </p></p>
 <br>
 <h3> Team Members</h3>
 <ul>
-  <li> Arpita Mothukuri</li>
-  <li> Archana Gummadavelly</li>
-  <li> Lakshmi Priyanka Parimi</li>
+  <li> Atul Mishra</li>
+  
   <ul>  
     
